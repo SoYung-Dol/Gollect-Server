@@ -82,7 +82,6 @@ router.delete('/:platform_id/users/:user_id',(req,res,next)=>{
 			});
         }
     });
-
 })
 
 
